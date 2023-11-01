@@ -75,6 +75,15 @@
         flex-wrap: nowrap;
     }
             
+            .largename {
+               font-size: 2rem;
+               flex-wrap: nowrap;
+            }
+            
+            .tiny {
+               font-size: 0.5rem;
+               
+            }
     .tiny {
         font-size: 0.5rem;
     }
