@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Jessica Lopez</title>
+        <link rel="stylesheet" href="assets/style.css">
+    </head>
+    <body>
+        <div class="wrapper">
+        <span class="kicker">3600 Jamaica Way Jamaica</span>
+        <h1>
+            <span class="larger-names">Professional Skill<br /> 
+                Artist
+                Graphic Designer
+                Cake Artist
+            </span>
+            <span class="small-names"> Education<br />
+                High Schoool Education: Herbert hoover High School
+                Cuyamaca Comm College: Business
+                Yavapai College: Graphic Design
+            <span class="small-names"> Employment History<br />
+                Communications Specialist
+                Retention Specialist 
+                Sales Consultant
+                Photographer 
+                Business Owner  
+            <span class="title">'Jessica Lopez'</span>
+            </h1>
+        <img src="assets/saul-bass-vertigo.avif" alt="graphic from Saul Bass's Vertigo poster">
+        </div>
+    </body>`
+</html>
